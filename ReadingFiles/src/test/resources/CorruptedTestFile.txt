@@ -1,0 +1,9 @@
+123, Mr., John, E, Smith, M, je@s.com, 1980-01-30, 1990-01-30, 100000
+123, Mrs., Johanna, B, Smiths, M, je@s.com, 1980-01-20, 1990-01-20, 100001
+198429, Mrs., Serafina, I, Bumgarner, F, serafina.bumgarner@exxonmobil.com, 1982-09-21, 2008-02-01, 69294
+178566, Mrs., Juliette, M, Rojo, F, juliette.rojo@yahoo.co.uk, 1967-05-08, 2011-06-04, 193912
+647173, Mr., Milan, F, Krawczyk, M, milan.krawczyk@hotmail.com, 1980-04-04, 2012-01-19, 123681
+847634, Mr., Elmer, R, Jason, M, elmer.jason@yahoo.com, 1996-04-09, 2017-05-28, 93504
+260736, Ms., Zelda, P, Forest, F, zelda.forest@ibm.com, 1959-11-27, 2014-01-28, 176642
+811306, Mr., Rhett, P, Wan, M, rhett.wan@hotmail.com, 1976-07-14, 2009-01-21, 59406
+956633, Mr., Hal, H, Farrow, M, hal.farrow@cox.net, 1967-03-15, 1991-02-25, 164580
